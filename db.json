@@ -1,9 +1,4 @@
-{
-{
-  "dates": [
-    { "id": 1, "value": "2024-09-01" }
-  ]
-},  "movies": [
+  "movies": [
     {
       "Title": "12 Angry Men",
       "Year": "1957",
